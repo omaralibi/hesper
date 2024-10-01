@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Hesper/static/css/main.895b77e9.css",
-    "main.js": "/Hesper/static/js/main.9b22be3a.js",
+    "main.js": "/Hesper/static/js/main.5ee6d9b4.js",
     "static/media/backgroung.jpg": "/Hesper/static/media/backgroung.fc182bdbd4818ec37802.jpg",
     "static/media/logogold.png": "/Hesper/static/media/logogold.f873999cae5ade48f283.png",
     "static/media/lone.png": "/Hesper/static/media/lone.d22a0d4a41c76aab850f.png",
     "index.html": "/Hesper/index.html",
     "main.895b77e9.css.map": "/Hesper/static/css/main.895b77e9.css.map",
-    "main.9b22be3a.js.map": "/Hesper/static/js/main.9b22be3a.js.map"
+    "main.5ee6d9b4.js.map": "/Hesper/static/js/main.5ee6d9b4.js.map"
   },
   "entrypoints": [
     "static/css/main.895b77e9.css",
-    "static/js/main.9b22be3a.js"
+    "static/js/main.5ee6d9b4.js"
   ]
 }
