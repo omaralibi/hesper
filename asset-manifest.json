@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/omaralibi.github.io/horizon/static/css/main.2428e0a6.css",
+    "main.js": "/omaralibi.github.io/horizon/static/js/main.d4385eaf.js",
+    "static/media/backgroung.jpg": "/omaralibi.github.io/horizon/static/media/backgroung.fc182bdbd4818ec37802.jpg",
+    "static/media/logogold.png": "/omaralibi.github.io/horizon/static/media/logogold.1b77540eeb41b632bb89.png",
+    "static/media/lone.png": "/omaralibi.github.io/horizon/static/media/lone.c96a5c40b9fceae4be2f.png",
+    "index.html": "/omaralibi.github.io/horizon/index.html",
+    "main.2428e0a6.css.map": "/omaralibi.github.io/horizon/static/css/main.2428e0a6.css.map",
+    "main.d4385eaf.js.map": "/omaralibi.github.io/horizon/static/js/main.d4385eaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2428e0a6.css",
+    "static/js/main.d4385eaf.js"
+  ]
+}
