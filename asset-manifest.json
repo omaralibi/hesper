@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hesper/static/css/main.e611de07.css",
-    "main.js": "/hesper/static/js/main.de29d025.js",
-    "static/media/backgroung.jpg": "/hesper/static/media/backgroung.fc182bdbd4818ec37802.jpg",
-    "static/media/logogold.png": "/hesper/static/media/logogold.f873999cae5ade48f283.png",
-    "static/media/lone.png": "/hesper/static/media/lone.d22a0d4a41c76aab850f.png",
-    "index.html": "/hesper/index.html",
-    "main.e611de07.css.map": "/hesper/static/css/main.e611de07.css.map",
-    "main.de29d025.js.map": "/hesper/static/js/main.de29d025.js.map"
+    "main.css": "/ashe/static/css/main.2c72d462.css",
+    "main.js": "/ashe/static/js/main.62710de6.js",
+    "static/media/backgroung.jpg": "/ashe/static/media/backgroung.fc182bdbd4818ec37802.jpg",
+    "static/media/logogold.png": "/ashe/static/media/logogold.a983281d03be0944b5f6.png",
+    "static/media/lone.png": "/ashe/static/media/lone.c39b4b52d893cdf50a62.png",
+    "index.html": "/ashe/index.html",
+    "main.2c72d462.css.map": "/ashe/static/css/main.2c72d462.css.map",
+    "main.62710de6.js.map": "/ashe/static/js/main.62710de6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e611de07.css",
-    "static/js/main.de29d025.js"
+    "static/css/main.2c72d462.css",
+    "static/js/main.62710de6.js"
   ]
 }
